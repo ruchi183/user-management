@@ -6,7 +6,7 @@
 - LIST USER
 - DELETE USER
 ## Assumption
-- Anisble is insstalled in Ubuntu server.(Ubuntu 16.04)
+- Ansible is installed in Ubuntu server.(Ubuntu 16.04)
 - Creating ssh-key pair in the local directory, later on private key can be emailed to user.
 ## Installation steps
 - git clone https://github.com/ruchi183/user-management.git
